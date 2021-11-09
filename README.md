@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlexKouliy
+- 👀 I’m interested in game design and front end web development
+- 🌱 I’m currently learning illustration, graphic design and front end web dev
