@@ -13,7 +13,7 @@ Human-Centered Design
 Trauma-Informed Practice
 Affective and Somatic Science
 CCD reframes accessibility from compliance to care, and treats interfaces as nervous-system architecture.
-This work emerged from a 5-month research residency, 75+ technical notes, and case studies including Hexxed and Healing.
+This work emerged from a self-directed 5-month research residency, 75+ technical notes, and case studies including Hexxed and Healing (from May 20th 2025).
 
 🧭 Frameworks & Methods
 I create systems that make complexity usable:
